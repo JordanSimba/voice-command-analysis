@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# deepspeech hidden files
+._*
+
+# audio files
+*.wav
+*.mp3
+
+# archive binaries
+*.tar*
+
+# model files
+*.scorer
+*.pbmm
